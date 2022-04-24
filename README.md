@@ -1,5 +1,3 @@
-# NOTE: It's best to run these on Google Colab (these are just downlaoded versions)
-
 # NOTE: The following are all developed during work at AI Camp except for the Imitated_GPT_TextGen (was a previous project I did on my own)
 
 1. Imitated_GPT_TextGen.ipynb:
